@@ -1,9 +1,9 @@
 # Screenshots:
 
-![screenshots](./image.png)
-![students.md](./image1.png)
-![git status](./image2.png)
-![nehmat branch](./image3.png)
-![git checkout](./image4.png)
-![git branch example](./image5.png)
-![RemoveExample.txt](./image6.png)
+![screenshots](./images/image.png)
+![students.md](./images/image1.png)
+![git status](./images/image2.png)
+![nehmat branch](./images/image3.png)
+![git checkout](./images/image4.png)
+![git branch example](./images/image5.png)
+![RemoveExample.txt](./images/image6.png)
