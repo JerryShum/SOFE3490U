@@ -1,8 +1,8 @@
-# SOFE3490U - Software Project Management
-
-## Laboratory Repository
+# SOFE3490U - Software Project Management Laboratory
 
 ## Students:
+
+SEC 007 | Group 6
 
 | Name          | ID        |
 | ------------- | --------- |
