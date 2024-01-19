@@ -5,5 +5,5 @@
 ![git status](./image2.png)
 ![nehmat branch](./image3.png)
 ![git checkout](./image4.png)
-![RemoveExample.txt](./image6.png)
 ![git branch example](./image5.png)
+![RemoveExample.txt](./image6.png)
